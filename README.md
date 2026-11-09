@@ -1,4 +1,4 @@
-# Português-semantica-e-funcoes-de-linguagem-figuras-de-linguagem.-### Guia Definitivo: Funções da Linguagem vs. Semântica
+# Português-semântica-e-funções-de-linguagem-figuras-de-linguagem.-### Guia Definitivo: Funções da Linguagem vs. Semântica
 
 | Matéria | Conceito / Termo | Qual é o foco principal? | Exemplo Prático | Como lembrar na prova? |
 | :--- | :--- | :--- | :--- | :--- |
