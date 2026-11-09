@@ -1,0 +1,1 @@
+# Portugu-s-sem-ntica-e-fun-es-de-linguagem-figuras-de-linguagem.-
